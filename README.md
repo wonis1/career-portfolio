@@ -59,7 +59,7 @@
   - 챗봇을 홈페이지에 연동하여 실사용 기능 강화
 - 링크: https://mindwareworks.com/
 
-## Call/Voice Expertise (포트폴리오 요약)
+## Call/Voice Expertise
 - SIP 기반 콜봇/CTI 연동 환경 이해
 - Trunk/내선 구조 구분 및 콜 플로우/데이터 플로우 관점 이해
 - Call Settings(Proxy, DTMF, Codec, Ringing/Timeout 등) 핵심 옵션 이해
