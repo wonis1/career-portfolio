@@ -1,6 +1,5 @@
-# Jeong | Frontend Developer
-챗봇/콜봇 UI·UX와 접근성을 중시하는 3년차 프론트엔드 개발자입니다!
-프론트뿐 아니라, 다양한 지식을 통해 다른 사람과의 이해관계를 넓히고 싶습니다.
+# Portfolio
+경력사항에 대한 세부내용을 담았습니다.
 
 ## Summary
 - [우리카드 챗봇 재구축 — 상담원 연동 시나리오 구현](https://pc.wooricard.com/)
@@ -37,7 +36,7 @@
 
 <a id="proj-coway"></a>
 ### 코웨이 클라우드 챗봇 구축 및 운영유지보수
-- 역할: 제품 조회 API를 활용한 FAQ 기반 챗봇 개발, 대화 UI 구현
+- 역할: 제품 데이터에 기반한 FAQ 기반 챗봇 개발, 대화 UI 구현
 - 기간: 2023.05 ~ 2023.07
 - 유지보수: 2024.05 ~ 2025.07
 - 기술: JavaScript, HTML, CSS, REST API
@@ -61,12 +60,12 @@
 - 링크: https://mindwareworks.com/
 
 ## Call/Voice Expertise (포트폴리오 요약)
-- SIP 기반 콜봇/CTI 연동 환경 이해 및 설정·검증 경험
+- SIP 기반 콜봇/CTI 연동 환경 이해
 - Trunk/내선 구조 구분 및 콜 플로우/데이터 플로우 관점 이해
 - Call Settings(Proxy, DTMF, Codec, Ringing/Timeout 등) 핵심 옵션 이해
 - CTI Bridge/Preview 개념 이해 및 데이터 전달 흐름 설계 관점 보유
 - STT/TTS 타이밍 튜닝 관점 이해(early input 등)
-- 운영자 교육 및 가이드 문서 작성 경험
+- 운영자 교육 및 가이드 문서 작성
 
 ## Operations / Maintenance
 - 농협은행(콜봇)
@@ -75,7 +74,7 @@
 - 미래에셋증권(챗봇)
 - 네스프레소(챗봇/콜봇)
 - 오뚜기(콜봇)
-- 위 외 다수의 서비스에 대해 기술지원
+- 위 외 다수의 서비스에 대한 기술지원
 
 ## Skills
 - Core (Frontend): JavaScript, HTML, CSS
