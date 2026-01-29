@@ -16,7 +16,6 @@
 ## Major Projects
 - 우리카드 챗봇 개발: https://pc.wooricard.com/
 - 코웨이 챗봇 개발: https://www.coway.com/
-- 유비케어 챗봇 개발: https://www.ubcare.co.kr/
 - 마인드웨어웍스 홈페이지 개발: https://mindwareworks.com/
 
 ## Operations / Maintenance
