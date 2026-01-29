@@ -35,12 +35,7 @@
 
 ## Highlighted Work (Details to Expand)
 - 홈페이지 개발 (SI): React, Node.js, MariaDB, Docker, GitLab, Azure, Kakao API, Google API
-- 우리카드 챗봇 개발: JavaScript, HTML, CSS, MongoDB, K8s, RESTful API, WebSocket, HTTP
+- 챗봇 개발: JavaScript, HTML, CSS, K8s, RESTful API, WebSocket, HTTP
 
-## Links
-- GitHub: (추가 예정)
-- Email: (추가 예정)
-- Portfolio: (추가 예정)
-STful API, WebSocket, http 등
 
 
